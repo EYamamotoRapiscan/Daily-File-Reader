@@ -13,7 +13,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 //  E. Yamamoto 07/2016, Rapiscan Systems
 //  Drag and drop a daily file and plot it on two charts (one for gamma, one for neutron). 
-//  7/13/2016 Added ability to hide graphs from detectors, added sum counts charts. Verified pokemon go free.
+//  7/13/2016 Added ability to hide graphs from detectors, added sum counts charts.
 namespace DailFileReader
 {
     public partial class DailyFileReader : Form

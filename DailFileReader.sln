@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailFileReader", "DailFileReader\DailFileReader.csproj", "{BB0C3207-1495-4234-ACFE-E1D0B462FB0C}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DailyFileReaderSetup", "DailyFileReaderSetup\DailyFileReaderSetup.vdproj", "{F5D71328-297D-4682-8B0C-23C972C7FA31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,16 @@ Global
 		{BB0C3207-1495-4234-ACFE-E1D0B462FB0C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{BB0C3207-1495-4234-ACFE-E1D0B462FB0C}.Release|Win32.ActiveCfg = Release|Any CPU
 		{BB0C3207-1495-4234-ACFE-E1D0B462FB0C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Debug|Any CPU.ActiveCfg = Debug
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Debug|Win32.ActiveCfg = Debug
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Debug|x86.ActiveCfg = Debug
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|Any CPU.ActiveCfg = Release
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|Mixed Platforms.ActiveCfg = Release
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|Mixed Platforms.Build.0 = Release
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|Mixed Platforms.Deploy.0 = Release
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|Win32.ActiveCfg = Release
+		{F5D71328-297D-4682-8B0C-23C972C7FA31}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
